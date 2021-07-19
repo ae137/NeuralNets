@@ -7,3 +7,7 @@ In this repository, some techniques for improving neural networks and deep learn
 MNIST Experiments:
 
 * Use MC dropout for improving classification (`mc_dropout.ipynb`)
+
+Regression uncertainty:
+
+* Train simple model on Boston Housing Price dataset and estimate uncertainties of predictions (`UncertaintyEstimationRegression.ipynb`)
